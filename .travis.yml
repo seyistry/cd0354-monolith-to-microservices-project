@@ -31,4 +31,3 @@ after_success:
   - docker push seyistry/udagram-api-user:v1
   - docker push seyistry/udagram-frontend:v1
   - docker push seyistry/udagram-reverseproxy:v1
-Footer
